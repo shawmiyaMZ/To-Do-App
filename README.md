@@ -10,7 +10,10 @@ A basic to-do app developed using Android Studio.
 - **Add/Edit Deadline**: Assign deadlines to tasks or edit them as needed.
 
 ## Screenshots
-![Screenshot_2022-05-07-13-58-34-58_f73b71075b1de7323614b647fe394240](https://github.com/shawmiyaMZ/To-Do-App/assets/114656363/6e239def-68de-468b-b435-9363cfd1a041)
+
+![splash](https://github.com/shawmiyaMZ/To-Do-App/assets/114656363/04b74603-c9f7-41cc-a11b-d976342ff6c8)
+![add ](https://github.com/shawmiyaMZ/To-Do-App/assets/114656363/2d7dd073-f881-45a1-ad8c-bdc8496bc3bc)
+![update screen](https://github.com/shawmiyaMZ/To-Do-App/assets/114656363/2c832e70-e227-493d-a0c3-5ae5e351b694)
 
 
 ## Getting Started
